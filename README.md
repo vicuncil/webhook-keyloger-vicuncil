@@ -4,6 +4,7 @@ This script is designed to log keystrokes on the computer where it's executed an
 -------------------------------------------------------------------------------------------
 WIndows
 -------------------------------------------------------------------------------------------
+
 Download as zip
 open cmd 
 go to directory
@@ -11,6 +12,7 @@ python script.py
 if you want to make executable file 
 python -m Pyinstaller --onefile --windowed --icon=devil.ico script.py 
 after that is gonna create folder in directory with name "dist" and there is script.exe 
+
 ------------------------------------------------------------------------------------------
 Linux
 ------------------------------------------------------------------------------------------
